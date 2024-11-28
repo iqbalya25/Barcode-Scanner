@@ -57,5 +57,5 @@ const BarcodeGenerator = () => {
     </div>
   );
 };
-
+//
 export default BarcodeGenerator;
